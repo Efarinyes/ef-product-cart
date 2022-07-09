@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage Ha de mostrar el component de manera correcta i amn la imatge personalitzada 1`] = `
+<img
+  alt="Product Foto"
+  className="productImg undefined"
+  src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+/>
+`;
+
+exports[`ProductImage Ha de mostrar el prodicte amb imatgecorrectament 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product Foto"
+    className="productImg undefined"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
