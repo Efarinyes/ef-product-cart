@@ -1,5 +1,5 @@
 # EF-Product-Card
-Paquet de proves per a desplefar a NPM
+Paquet de proves per a desplegar a NPM
 
 ### Eduard Farinyes
 
